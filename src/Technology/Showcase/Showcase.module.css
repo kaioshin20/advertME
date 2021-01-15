@@ -1,0 +1,22 @@
+.Row{
+    background-repeat: 'no-repeat';
+    background-size: '100% 100%';
+}
+
+.Design{
+    margin: 10px; 
+    box-shadow: 1px 2px 3px #ccc;
+    text-align: center;
+}
+
+.Card{
+    margin: 10px; 
+    box-shadow: 1px 2px 3px #ccc;
+    background-color: #ccc;
+}
+
+.Design:hover{
+    transform: scale(1.02);
+    transition: 0.5s;
+}
+

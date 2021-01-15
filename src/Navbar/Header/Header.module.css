@@ -1,0 +1,40 @@
+.Header {
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #048243;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 100;
+}
+
+.Header nav {
+    height: 100%;
+}
+
+.LogoOuter {
+    height: 80%;
+}
+
+.Logo {
+    background-color: white;
+    /* padding: 8px; */
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.Logo img {
+    height: 100%;
+}
+
+@media (max-width: 499px) {
+    .DesktopOnly {
+        display: none;
+    }
+}

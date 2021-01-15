@@ -1,0 +1,11 @@
+.Options{
+  padding-bottom: 100px;
+}
+
+.Heading{
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}

@@ -1,0 +1,57 @@
+.Section{
+    /* background-color: #32BF84; */
+    width: 100%;
+    /* min-height: 100vh; */
+    height: max-content;
+    text-align: center;
+    /* border-bottom: 1px solid #048243; */
+    padding: 50px;
+}
+
+.Footer{
+    /* background-color: #048243; */
+    width: 100%;
+    height: max-content;
+    text-align: center;
+    /* border-bottom: 1px solid #048243; */
+    padding: 50px;
+}
+
+.Copyright{
+    background-color: white;
+    width: 100%;
+    height: max-content;
+    text-align: center;
+    padding: 10px;
+}
+
+/* .Section:nth-child(odd){ */
+    /* background-color: #CAFFFB; */
+/* } */
+
+.CarousalImg{
+    width: 100%;
+}
+
+.SectionSept{
+    position: absolute;
+    top: 83vh;
+    z-index: 50;
+}
+
+.GridImg{
+    width: 100%;
+    height: 80%;
+    box-shadow: 1px 2px 3px black;
+}
+
+.GridImg:hover{
+    opacity: 0.5;
+    box-shadow: 2px 4px 6px black;
+}
+
+.ImageText{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
